@@ -23,7 +23,39 @@ Futuristic *neon UI*, glassmorphism cards, fully responsive, ready for live demo
 
 1️⃣ Clone the repo / रेपो क्लोन करें:  
 ```bash
-g# Neon AI Platform Ultimate
+g## 1️⃣ Checkout new branch for README update
+git checkout -b neon-readme-update
+
+# 2️⃣ Replace old README.md content with final version (copy-paste content manually in editor)
+# Open README.md in your editor, delete old content, paste the final content
+# Save the file
+
+# 3️⃣ Stage README.md
+git add README.md
+
+# 4️⃣ Commit changes
+git commit -m "Update README.md with futuristic Neon AI, Hindi/English Voice & Image features" \
+-m "Deleted old README, added Neon UI, GPT Chat, Image Generator, Voice Assistant (Male/Female), setup, folder structure, and future planning"
+
+# 5️⃣ Push the branch to remote
+git push origin neon-readme-update
+
+# 6️⃣ Merge the branch via Pull Request on GitHub to main (or default branch)
+
+# 7️⃣ Rename default branch from main to neon-main locally
+git branch -m main neon-main
+
+# 8️⃣ Set upstream for new default branch
+git branch --set-upstream-to=origin/neon-main neon-main
+
+# 9️⃣ Pull latest changes
+git pull
+
+# 🔹 Optional: Delete old remote main branch
+git push origin --delete main
+
+# 10️⃣ Push local neon-main to remote
+git push origin neon-main Neon AI Platform Ultimate
 
 [![Neon AI Platform Ultimate](https://img.shields.io/badge/Neon-AI-Platform-Ultimate-blue?style=for-the-badge&logo=github)](https://github.com/ritwikfilms-sketch/Neon-AI-Platform-Ultimate)
 
