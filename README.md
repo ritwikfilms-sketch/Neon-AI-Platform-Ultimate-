@@ -23,5 +23,9 @@ Futuristic *neon UI*, glassmorphism cards, fully responsive, ready for live demo
 
 1️⃣ Clone the repo / रेपो क्लोन करें:  
 ```bash
-git clone https://github.com/ritwikfilms-sketch/Neon-AI-Platform-Ultimate.git
+g# Neon AI Platform Ultimate
+
+[![Neon AI Platform Ultimate](https://img.shields.io/badge/Neon-AI-Platform-Ultimate-blue?style=for-the-badge&logo=github)](https://github.com/ritwikfilms-sketch/Neon-AI-Platform-Ultimate)
+
+Interactive AI web app with GPT Chat, Text-to-Image generator, and Male/Female Voice TTS. Futuristic neon UI, fully responsive, ready for live demo.it clone https://github.com/ritwikfilms-sketch/Neon-AI-Platform-Ultimate.git
 cd Neon-AI-Platform-Ultimate
