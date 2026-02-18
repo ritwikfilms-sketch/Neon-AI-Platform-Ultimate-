@@ -84,3 +84,4 @@ Futuristic neon UI, glassmorphism cards, fully responsive, ready for live demo, 
 ```bash
 git clone https://github.com/ritwikfilms-sketch/Neon-AI-Platform-Ultimate.git
 cd Neon-AI-Platform-Ultimate
+Added new version features, enhanced GPT Chat, Text-to-Image generator, Voice Assistant (Hindi & English), updated setup instructions, folder structure, and future planning for Neon AI Platform Ultimate.
